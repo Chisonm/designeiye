@@ -1,0 +1,63 @@
+export const homeObjOne = {
+    lightBg: false,
+    imgStart:'',
+    lightText:true,
+    lightTextDesc:true,
+    lightTopLine:true,
+    headline:'Lead Generation Specialist for online businesses',
+    buttonLabel:'Get Started',
+    descripion:'We help business owners increase their revenue. Our team of unique specialist can help you acheive your business goals',
+    topLine:'Marketing Agency',
+    primary: true,
+    start:'',
+    img: require('../../images/undraw_voice_control_ofo1.svg').default,
+    alt:'image',
+}; 
+
+export const homeObjTwo = {
+    lightBg: true,
+    imgStart:'start',
+    lightText:false,
+    lightTextDesc:false,
+    lightTopLine:false,
+    headline:'Lead Generation Specialist for online businesses',
+    buttonLabel:'Get Started',
+    descripion:'We help business owners increase their revenue. Our team of unique specialist can help you acheive your business goals',
+    topLine:'Marketing Agency',
+    primary: false,
+    start:'true',
+    img: require('../../images/business-3560916_1920.jpg').default,
+    alt:'image',
+}; 
+
+export const homeObjThree = {
+    lightBg: false,
+    imgStart:'',
+    lightText:true,
+    lightTextDesc:true,
+    lightTopLine:true,
+    headline:'Lead Generation Specialist for online businesses',
+    buttonLabel:'Get Started',
+    descripion:'We help business owners increase their revenue. Our team of unique specialist can help you acheive your business goals',
+    topLine:'Marketing Agency',
+    primary: true,
+    start:'',
+    img: require('../../images/business-3560917_1920.jpg').default,
+    alt:'image',
+}; 
+
+export const homeObjFour = {
+    lightBg: false,
+    imgStart:'start',
+    lightText:true,
+    lightTextDesc:true,
+    lightTopLine:true,
+    headline:'Lead Generation Specialist for online businesses',
+    buttonLabel:'Get Started',
+    descripion:'We help business owners increase their revenue. Our team of unique specialist can help you acheive your business goals',
+    topLine:'Marketing Agency',
+    primary: true,
+    start:'true',
+    img: require('../../images/business-3560925_1920.jpg').default,
+    alt:'image',
+}; 
